@@ -1,2 +1,2 @@
 # Event-Attendance-Predictor
-ML-based system to predict event attendance using sentiment and engagement from simulated social media data.
+A machine learning-based system that predicts event attendance using simulated social media buzz such as sentiment and engagement metrics.
